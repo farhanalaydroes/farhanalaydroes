@@ -1,4 +1,4 @@
-# Hi there 👋,  I'm Farhan
+# Hi there 👋, I'm Farhan
 
 <p align="justify">
   I am a bachelor graduate of Computer Science in majoring Information Systems with Business Intelligence specialization with Experience in Data Fields and I have passionate and highly motivated to learn and develop skill around Data Fields.
