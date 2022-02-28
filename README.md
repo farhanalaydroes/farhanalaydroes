@@ -4,6 +4,15 @@
   I am a bachelor graduate of Computer Science in majoring Information Systems with Business Intelligence specialization with Experience in Data Fields and I have passionate and highly motivated to learn and develop skill around Data Fields.
 </p>
 
+## My Repositories
+
+<p align="justify">
+  This Github is the result of my learning in the field of processing data. The repository on my Github is divided into several categories:
+</p>
+
+| 📊 Data Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Tableau-Explore-Data-Covid](https://github.com/farhanalaydroes/Tableau-Explore-Data-Covid)
+|:--------|:--------------------|
+| 🔬 Data Science | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy](https://github.com/farhanalaydroes/Skill-Academy) · [Revou](https://github.com/farhanalaydroes/Revou)
 
 ## Find Me at
 
