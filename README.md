@@ -7,7 +7,7 @@
 ## My Repositories
 
 <p align="justify">
-  This Github is the result of my learning in the field of processing data. The repository on my Github is divided into several categories:
+  This GitHub is the result of my learning in the field of processing data. The repository on my GitHub is divided into several categories:
 </p>
 
 | 📊 Data Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Tableau-Explore-Data-Covid](https://github.com/farhanalaydroes/Tableau-Explore-Data-Covid)
