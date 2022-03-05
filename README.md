@@ -13,7 +13,7 @@
 | 🖥 SQL | [Belajar-mysql](https://github.com/farhanalaydroes/belajar-mysql)
 |:--------|:--------------------|
 | 🐍 Python | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy](https://github.com/farhanalaydroes/Skill-Academy) · [Revou](https://github.com/farhanalaydroes/Revou)
-| 📊 Data Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Tableau-Explore-Data-Covid](https://github.com/farhanalaydroes/Tableau-Explore-Data-Covid)
+| 📊 Data Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Explore-Data-Covid](https://github.com/farhanalaydroes/Explore-Data-Covid)
 
 ## Find Me at
 
