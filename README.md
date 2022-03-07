@@ -10,9 +10,9 @@
   This GitHub is the result of my learning in the field of processing data. The repository on my GitHub is divided into several categories:
 </p>
 
-| 🖥 SQL | [Belajar-mysql](https://github.com/farhanalaydroes/belajar-mysql)
+| 🖥 SQL | [Belajar-mysql](https://github.com/farhanalaydroes/belajar-mysql) · [Skill Academy - SQL](https://github.com/farhanalaydroes/Skill-Academy-DS)
 |:--------|:--------------------|
-| 🐍 Python | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy - DS](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
+| 🐍 Python | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy - Python](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
 | 📊 Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Explore-Data-Covid1](https://github.com/farhanalaydroes/Explore-Data-Covid1)· [Explore-Data-Covid2](https://github.com/farhanalaydroes/Explore-Data-Covid2)· [Skill Academy - DV](https://github.com/farhanalaydroes/Skill-Academy-DV)
 
 ## Find Me at
