@@ -12,8 +12,9 @@
 
 | 🖥 SQL | [Belajar-mysql](https://github.com/farhanalaydroes/belajar-mysql) · [Skill Academy - SQL](https://github.com/farhanalaydroes/Skill-Academy-DS)
 |:--------|:--------------------|
-| 🐍 Python | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy - Python](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
 | 📊 Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Explore-Data-Covid](https://github.com/farhanalaydroes/Explore-Data-Covid)· [Skill Academy - DV](https://github.com/farhanalaydroes/Skill-Academy-DV) · [Explore Data Netflix](https://github.com/farhanalaydroes/Explore-Data-Netflix)
+| 🐍 Python | [Skill Academy - Python](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
+| 🧠 Machine Learning | [Rakamin](https://github.com/farhanalaydroes/Rakamin) · [Skill Academy - Python](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
 
 ## Find Me at
 
