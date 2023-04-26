@@ -7,7 +7,9 @@
 ## My Repositories
 
 <p align="justify">
-  This GitHub is the result of my learning in the field of processing data. The repository on my GitHub is divided into several categories:
+  This GitHub is the result of <b>my own self-directed learning</b> from various sources, and I cannot confirm whether what I have learned is entirely accurate or not. 
+  
+  The repository on my GitHub is divided into several categories:
 </p>
 
 | 🖥 SQL | [Belajar-mysql](https://github.com/farhanalaydroes/belajar-mysql) · [Skill Academy - SQL](https://github.com/farhanalaydroes/Skill-Academy-DS)
