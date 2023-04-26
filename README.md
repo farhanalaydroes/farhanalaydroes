@@ -16,7 +16,7 @@
 |:--------|:--------------------|
 | 📊 Visualization | [My Skill](https://github.com/farhanalaydroes/MySkill) · [Explore-Data-Covid](https://github.com/farhanalaydroes/Explore-Data-Covid)· [Skill Academy - DV](https://github.com/farhanalaydroes/Skill-Academy-DV) · [Explore Data Netflix](https://github.com/farhanalaydroes/Explore-Data-Netflix)
 | 🐍 Python | [Skill Academy - Python](https://github.com/farhanalaydroes/Skill-Academy-DS) · [Revou](https://github.com/farhanalaydroes/Revou)
-| 🧠 Machine Learning | [Modelling Diabetes](https://github.com/) · [Image Classification](https://github.com/)
+| 🧠 Machine Learning | [Modelling Diabetes](https://github.com/farhanalaydroes/Modelling-Diabetes) · [Image Classification](https://github.com/farhanalaydroes/Image-Classification)
 
 ## Find Me at
 
