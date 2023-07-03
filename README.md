@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Farhan
 
 <p align="justify">
-  I am a bachelor graduate of Computer Science in majoring Information Systems in Business Intelligence specialization with experience in Data Fields and I have passionate and highly motivated to learn and develop skill around Data Fields.
+  I am a bachelor's graduate of Computer Science looking for oppoturnities in <strong> Data Analyst</strong>, <strong> Business Intelligence</strong>, and <strong>Data Science</strong> with background in <strong>Business Intelligence</strong>. 
 </p>
 
 ## My Repositories
