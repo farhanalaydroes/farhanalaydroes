@@ -19,10 +19,8 @@
 | 🧠 Machine Learning | [Image Classification - Dicoding](https://github.com/farhanalaydroes/Image-Classification) · [Machine Learning Developer - Dicoding](https://github.com/farhanalaydroes/Machine-Learning-Developer-Dicoding)
 
 #### Notes
-<p>
- For security reasons, please do not download or distribute the above information, as it is solely for educational purposes. Thank you for your understanding and cooperation. 
-</p>
-
+<p>For security reasons, please do not download or distribute the above information, as it is solely for educational purposes.</p>
+<p>Thank you for your understanding and cooperation🙏</p> 
 
 ## Find Me at
 
